@@ -6,7 +6,7 @@ A blockchain is a constantly growing ledger which keeps a permanent record of al
 
 Hashing is the process of converting a given key into another value. A hash function is used to generate the new value according to a mathematical algorithm. Here we use hashing to secure our blockchain and make it more reliable. The most popular ones are SHA-235,SHA-2,SHA-1,MD5. We used djb2 in our blockchain simulation.
 
-![Screenshot of GitHub Bot UI](/hashing.png)
+![Screenshot of working of hashing](/Hashing.png)
 
 
 # How does the djb2 hash work?
