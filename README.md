@@ -21,6 +21,14 @@ We have created the enum with all the parties available in the electoral system,
 
 ![Screenshot of Output](/Output.png)
 
+# Team Members :
+
+Charvi Bannur :  https://github.com/charvibannur
+
+Chaitra Bhat : https://github.com/Chaitra-Bhat383
+ 
+Ankitha C : https://github.com/Ankithac45
+
 
 
 
