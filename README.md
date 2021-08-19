@@ -17,6 +17,11 @@ The simple C function starts with the hash variable set to the number 5381. It t
 
 We have created the enum with all the parties available in the electoral system, namely good party, mediocre party and evil party, used Random function to disturbute the votes between 3 parties randomly . Then we linked all the votes with secure hash to form a blockchain.
 
+# How does the output look?
+
+![Screenshot of Output](/Output.png)
+
+
 
 
 
